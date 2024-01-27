@@ -14,3 +14,4 @@
 - [2. 程式基礎](http://mirdex.github.io/Python__20231223/2.%20basic%20concept.slides.html)
 - [3. 流程控制](http://mirdex.github.io/Python__20231223/3.%20流程控制_Q.slides.html)
 - [4. 資料結構](http://mirdex.github.io/Python__20231223/4.%20資料結構_Q.slides.html)
+- [5. 迴圈](http://mirdex.github.io/Python__20231223/5.%20迴圈_Q.slides.html)
